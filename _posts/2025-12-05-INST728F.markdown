@@ -6,8 +6,8 @@ image:  post_10-0.jpg
 tags:   social_media    
 ---
 
-
-<h3>💡Project Context</h3>
+<justify>
+<h3>🔍Project Context</h3>
 <p>MindFlex AI is an adaotive information system powered by gnerative AI models, which can provide personalized information and adjust their UI based on users' queries. 
 Therefore, it is an intelligent system in which AI reads the emotional state of the human user and responds flexibly accordingly.
 <br><br>
@@ -26,15 +26,15 @@ Most AI systems have been optimized primarily for accurcay-related metrics such 
 
 
 Who are we designing for?
+<h3>💡Reflection</h3>
 
 
-<justify>  
+
+
+
+
+
+
+
 
  </justify>
-
----
-### Unwanted Encounters: The Negative Emotional Changes on Social Media Users
-
-<center> <img src="/images/post_10/MLIS_poster_showcase.jpg" width="600" height="450"> </center>
-
-<center> <img src="/images/post_10/post_10-1.jpg" width="600" height="450"> </center>
