@@ -7,15 +7,19 @@ tags:   social_media
 ---
 
 
-<p>🎯 <strong>Project Context!!</strong> <br>
-MindFlex AI is an adaotive information system powered by gnerative AI models, which can provide personalized information and adjust their UI based on users' queries. 
+<h3>🎯Project Context</h3>
+<p>MindFlex AI is an adaotive information system powered by gnerative AI models, which can provide personalized information and adjust their UI based on users' queries. 
 Therefore, it is an intelligent system in which AI reads the emotional state of the human user and responds flexibly accordingly.
-
+<br>
 Jensen Huang, the CEO of NVIDIA, describes AI as <a href="https://www.instagram.com/reel/DR4QwDcDIVd/" target="_blank">the easiest tool</a> in human history and one that can help realize equity. I agree with this to some extent. More precisely, I believe that while AI is not yet such a tool, it holds that potential. Users can interact with AI through a simple chat in their preferred language, which has contributed to the rapid popularity of models like ChatGPT and Gemini. However, despite the wide diversity in users' backgrounds and contexts, these general-purpose AI models provide the same environment to all users. As a result, the quality of AI responses can vary significantly depending on users' literacy and metacognitive abilities. To address this disparity, I propose an adaptive system that reflects users' context. This project was proposed in the course INST728F in 2025 Fall semester, led by Professor Tom Brick at the University of Maryland, and the primary focus was to implement these ideas through user interface elements.
 </p>
-
+---
 <br>
+<p>🎯 <strong>Problem</strong> <br>
 
+
+
+Who are we designing for?
 
 
 <justify>  
