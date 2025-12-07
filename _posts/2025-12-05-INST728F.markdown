@@ -6,6 +6,9 @@ image:  post_11_0.png
 tags:   Human-Centered System    
 ---
 
+ <h1>Overview</h1>
+ <br><br>
+
 <div style="text-align: justify;">
 <h3>🔍Project Context</h3>
 <p>MindFlex AI is an adaotive information system powered by gnerative AI models, which can provide personalized information and adjust their UI based on users' queries.  Therefore, it is an intelligent system in which AI reads the emotional state of the human user and responds flexibly accordingly.
@@ -33,7 +36,7 @@ This project was proposed in the course INST728F in 2025 Fall semester, led by P
 </div>
 
 ---
-<h3>🎯Desogm Goals and Final Solutions</h3>
+<h3>🎯Desogm Goals and Final Designs</h3>
 
 <br>
 <br>
@@ -59,12 +62,11 @@ If a user submits an overly broad prompt, the system asks follow-up questions to
 <strong>Design Goal 3️⃣: Build user trust in sources</strong>
 ![Function2 GIF](/images/Post_11/Function2.gif)
 Many recent generative AI services already provide source citations. However, I added a citation type selection button so that users can easily copy and view citations at once, while also presenting an overall credibility message to encourage users' metacognitive judgment.
-<br>
+<br><br>
 For credibility message, 
-* If the number of sources in a generated response is between 0 and 2, the system issues a warning that the content may be dangerous 🔴
-* If the number of sources is between 3 and 5, the system issues a warning that the information may be insufficient 🟡
-* If the number of sources is 6 or more, the system indicates that the information is safe 🟢
-
+* If the number of sources in a generated response is between 0 and 2, the system issues a warning that the content may be dangerous 🔴.
+* If the number of sources is between 3 and 5, the system issues a warning that the information may be insufficient 🟡.
+* If the number of sources is 6 or more, the system indicates that the information is safe 🟢.
 
 <br>
 <strong>Design Goal 4️⃣: Detect Overtrust</strong>
@@ -77,7 +79,7 @@ For credibility message,
  <br><br>
 
 <div align="center">
-  <img src="/images/Post_11/interview.png" alt="Mainstream GIF">
+  <img src="/images/Post_11/interview.png" alt="Mainstream GIF"> <br>
   4 Interviews 
 </div>
 
@@ -85,15 +87,47 @@ For credibility message,
  <h3>💁🏻‍♀️User study</h3>
 
 ---
- <h1>Discovery</h1>
+ <h1>User Behavior Flow</h1>
  <br><br>
 
+<div align="center">
+  <img src="/images/Post_11/interview.png" alt="Mainstream GIF"> <br>
+  4 Interviews 
+</div>
+
+<br>
+---
+ <h1>💡Ideation</h1>
+ <br><br>
+
+<h3>Low-fidelity Wireframe Sketch</h3>
+I created the initial design by drawing it by hand.
+![Low-fidelity_wireframe](/images/Post_11/Low-fidelity_wireframe.png)
 
 
+<br>
+<h3>High-fidelity Wireframe</h3>
+Based on the sketch, we created wireframes, which helped ensure the designs aligned with the intended design goals.
+![Highfidelity_wireframe](/images/Post_11/High-fidelity_wireframe.png)
+
+<br>
+<h3>Service Indentity</h3>
+<div align="center">
+  <img src="/images/Post_11/UI_Color.png" alt="Mainstream GIF"> <img src="/images/Post_11/logo.png" alt="Mainstream GIF">
+</div>
+Through aesthetic design, I also wanted to highlight the system’s core identity—offering a variety of selectable modes. To achieve this, the overall system design was kept simple, using gray tones, black text, and a white background. However, I used distinct and vibrant colors for each mode to visually differentiate them. Each color was carefully chosen to match the concept of its corresponding mode:
+🔵 1. Research — Soft Study Blue (#DCEBFF)
+🟢 2. Tech — Mint Logic Green (#E3FCEF)
+🟣 3. Creative — Pastel Neon Purple (#F4E8FF)
+🟠 4. Business — Warm Office Orange (#FFE9CC)
+💗 5. Counselor — Soft Emotional Pink (#FFE5F0)
+The logo combines these five colors into a single wave, forming the shape of a brain to symbolize the mind.
+
+<br>
  ---
- <h1>💡Reflection</h1>
+ <h1>✨Reflection</h1>
  <br><br>
-
+![Function3 GIF](/images/Post_11/Function3.gif)
 
 Who are we designing for?
 
