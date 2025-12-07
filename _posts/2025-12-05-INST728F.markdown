@@ -86,6 +86,9 @@ For credibility message,
 
  <h3>💁🏻‍♀️User study</h3>
 
+Who are we designing for?
+
+
 ---
  <h1>User Behavior Flow</h1>
  <br><br>
@@ -100,36 +103,45 @@ For credibility message,
  <h1>💡Ideation</h1>
  <br><br>
 
-<h3>Low-fidelity Wireframe Sketch</h3>
+<h3>Low-fidelity Design Sketch</h3>
 I created the initial design by drawing it by hand.
 ![Low-fidelity_wireframe](/images/Post_11/Low-fidelity_wireframe.png)
 
 
 <br>
-<h3>High-fidelity Wireframe</h3>
+<h3>Wireframe</h3>
 Based on the sketch, we created wireframes, which helped ensure the designs aligned with the intended design goals.
 ![Highfidelity_wireframe](/images/Post_11/High-fidelity_wireframe.png)
 
 <br>
-<h3>Service Indentity</h3>
+<h3>Design Indentity</h3>
 <div align="center">
-  <img src="/images/Post_11/UI_Color.png" alt="Mainstream GIF"> <img src="/images/Post_11/logo.png" alt="Mainstream GIF">
+  <img src="/images/Post_11/UI_Color.png" alt="UI_Color">
 </div>
 Through aesthetic design, I also wanted to highlight the system’s core identity—offering a variety of selectable modes. To achieve this, the overall system design was kept simple, using gray tones, black text, and a white background. However, I used distinct and vibrant colors for each mode to visually differentiate them. Each color was carefully chosen to match the concept of its corresponding mode:
-🔵 1. Research — Soft Study Blue (#DCEBFF)
-🟢 2. Tech — Mint Logic Green (#E3FCEF)
-🟣 3. Creative — Pastel Neon Purple (#F4E8FF)
-🟠 4. Business — Warm Office Orange (#FFE9CC)
-💗 5. Counselor — Soft Emotional Pink (#FFE5F0)
-The logo combines these five colors into a single wave, forming the shape of a brain to symbolize the mind.
+    1. Research — Soft Study Blue (#DCEBFF)🔵
+    2. Tech — Mint Logic Green (#E3FCEF)🟢
+    3. Creative — Pastel Neon Purple (#F4E8FF)🟣
+    4. Business — Warm Office Orange (#FFE9CC)🟠
+    5. Counselor — Soft Emotional Pink (#FFE5F0)💗
+Lastly, the logo combines these five colors into a single wave, forming the shape of a brain to symbolize the mind.
 
 <br>
- ---
- <h1>✨Reflection</h1>
- <br><br>
-![Function3 GIF](/images/Post_11/Function3.gif)
 
-Who are we designing for?
+---
+<h1>🔁Iteration</h1>
+<br>
 
 
 
+---
+<h1>✨Reflection</h1>
+<br>
+<h3>Current Interests</h3>
+My personal research goal is to design and develop human-centered systems. In most research, this mostly involves analyzing user behavior or fine-tuning algorithms. However, in order to experiment with systems withh human subjects through mock systems, I believe it is essential to also have experience in UX/UI design and implementation. That is why I undertook this project.
+
+<h3>Future Work</h3>
+In the future, I will focus on improving algorithms and enhancing the quality of information. Once the design goals can be implemented algorithmically, I plan to use the experience gained from this project to guide the development of more effective system designs.
+
+
+<br><br><br>
