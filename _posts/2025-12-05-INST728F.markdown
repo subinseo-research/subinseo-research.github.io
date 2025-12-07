@@ -25,7 +25,7 @@ This project was proposed in the course INST728F in 2025 Fall semester, led by P
     <h3>❓Problem</h3>
     Most AI systems have been optimized primarily for <u>accurcay-related metrics</u> such as F-meaurse. However, real human information-seeking behavior is far more influenced by the context in which the system is used and by psychological factors such as cognitive load and trust calibration. 
     <br><br>
-    Misuse of general-purpose AI can lead to truly dangerous consequences. <a href="https://www.instagram.com/reel/DR4QwDcDIVd/" target="_blank"> In August 2025, there was a case in which a student died by suicide after interacting with ChatGPT </a>. This incident occurred, in part, because generative AIs like ChatGPT are generally designed to respond supportively to users regardless of the purpose of use. However, this issue cannot simply be dismissed as an individual's poor judgment. To design safer and more equitable information systems, we must confront and address these challenges directly.
+    Misuse of general-purpose AI can lead to truly dangerous consequences. <a href="https://www.youtube.com/watch?v=jBnJlwcnOBI" target="_blank"> In August 2025, there was a case in which a student died by suicide after interacting with ChatGPT </a>. This incident occurred, in part, because generative AIs like ChatGPT are generally designed to respond supportively to users regardless of the purpose of use. However, this issue cannot simply be dismissed as an individual's poor judgment. To design safer and more equitable information systems, we must confront and address these challenges directly.
     <br><br>
     Therefore, this project explores what kinds of design are needed to prevent misuse and build a safer information system.
     <br><br>
@@ -116,14 +116,14 @@ Based on the sketch, we created wireframes, which helped ensure the designs alig
 <br>
 <h3>Design Indentity</h3>
 <div align="center">
-  <img src="/images/Post_11/UI_Color.png" alt="UI_Color">
+  <img src="/images/Post_11/UI_Color.png" alt="UI_Color" width="70%">
 </div>
 Through aesthetic design, I also wanted to highlight the system’s core identity—offering a variety of selectable modes. To achieve this, the overall system design was kept simple, using gray tones, black text, and a white background. However, I used distinct and vibrant colors for each mode to visually differentiate them. Each color was carefully chosen to match the concept of its corresponding mode:
-    1. Research — Soft Study Blue (#DCEBFF)🔵
-    2. Tech — Mint Logic Green (#E3FCEF)🟢
-    3. Creative — Pastel Neon Purple (#F4E8FF)🟣
-    4. Business — Warm Office Orange (#FFE9CC)🟠
-    5. Counselor — Soft Emotional Pink (#FFE5F0)💗
+    * Research — Soft Study Blue (#DCEBFF)🔵
+    * Tech — Mint Logic Green (#E3FCEF)🟢
+    * Creative — Pastel Neon Purple (#F4E8FF)🟣
+    * Business — Warm Office Orange (#FFE9CC)🟠
+    * Counselor — Soft Emotional Pink (#FFE5F0)💗
 Lastly, the logo combines these five colors into a single wave, forming the shape of a brain to symbolize the mind.
 
 <br>
