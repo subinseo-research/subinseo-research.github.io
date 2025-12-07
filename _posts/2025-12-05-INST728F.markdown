@@ -2,7 +2,7 @@
 layout: post
 title:  "MindFlex AI"
 date:   2025-12-5 18:05:55 +0300
-image:  post_11-0.jif
+image:  post_11_0.png
 tags:   social_media    
 ---
 
