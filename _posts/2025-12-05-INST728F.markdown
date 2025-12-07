@@ -57,11 +57,13 @@ If a user accidentally uses the wrong mode during a conversation, the system det
 
 <br>
 <strong>Design Goal 2️⃣: Guide users to identify their specific information needs</strong>
+
 ![Function1 GIF](/images/Post_11/Function1.gif)
 If a user submits an overly broad prompt, the system asks follow-up questions to better serve the user's ultimate needs. However, <u>to prevent users from feeling burdened by answering these questions, the design allows for quick and easy responses through clickable options.</u>
 
 <br>
 <strong>Design Goal 3️⃣: Build user trust in sources</strong>
+
 ![Function2 GIF](/images/Post_11/Function2.gif)
 Many recent generative AI services already provide source citations. However, I added a citation type selection button so that users can easily copy and view citations at once, while also presenting an overall credibility message to encourage users' metacognitive judgment.
 <br><br>
@@ -72,8 +74,10 @@ For credibility message,
 
 <br>
 <strong>Design Goal 4️⃣: Detect Overtrust</strong>
+
 ![Function3 GIF](/images/Post_11/Function3.gif)
 
+When the system detects that a user overly relies on AI, it intentionally disrupts the flow by displaying a warning message instead of responding in the chat window.
 
 
 ---
@@ -81,24 +85,28 @@ For credibility message,
  <br><br>
 
 <div align="center">
-  <img src="/images/Post_11/interview.png" alt="Mainstream GIF"> <br>
+  <img src="/images/Post_11/interview.png" alt="interview"> <br>
   4 Interviews 
 </div>
+<br>
 
 
- <h3>💁🏻‍♀️User study</h3>
+<h3>💁🏻‍♀️User study</h3>
 
 Who are we designing for?
-
+Users want to...
+"
 
 ---
  <h1>User Behavior Flow</h1>
  <br><br>
 
 <div align="center">
-  <img src="/images/Post_11/interview.png" alt="Mainstream GIF"> <br>
-  4 Interviews 
+  <img src="/images/Post_11/flow.png" alt="flow"> 
 </div>
+
+
+
 
 <br>
 ---
@@ -108,7 +116,7 @@ Who are we designing for?
 <h3>Low-fidelity Design Sketch</h3>
 I created the initial design by drawing it by hand.
 
-![Low-fidelity_wireframe](/images/Post_11/Low-fidelity_wireframe.png)
+![Low-fidelity_wireframe](/images/Post_11/Low-fidelity_wireframe.jpg)
 
 
 <br>
@@ -123,15 +131,15 @@ Based on the sketch, we created wireframes, which helped ensure the designs alig
   <img src="/images/Post_11/UI_Color.png" alt="UI_Color" width="80%">
 </div>
 Through aesthetic design, I also wanted to highlight the system’s core identity—offering a variety of selectable modes. To achieve this, the overall system design was kept simple, using gray tones, black text, and a white background. However, I used distinct and vibrant colors for each mode to visually differentiate them. Each color was carefully chosen to match the concept of its corresponding mode:
-1. Research — Soft Study Blue (#DCEBFF)🔵
+* Research — Soft Study Blue (#DCEBFF)🔵
 * Tech — Mint Logic Green (#E3FCEF)🟢
 * Creative — Pastel Neon Purple (#F4E8FF)🟣
 * Business — Warm Office Orange (#FFE9CC)🟠
-* Counselor — Soft Emotional Pink (#FFE5F0)💗
+* Counselor — Soft Emotional Pink (#FFE5F0)💗 
+<br>
 Lastly, the logo combines these five colors into a single wave, forming the shape of a brain to symbolize the mind.
 
 <br>
-
 ---
 <h1>🔁Iteration</h1>
 <br>
@@ -141,11 +149,17 @@ Lastly, the logo combines these five colors into a single wave, forming the shap
 ---
 <h1>✨Reflection</h1>
 <br>
-<h3>Current Interests</h3>
-My personal research goal is to design and develop human-centered systems. In most research, this mostly involves analyzing user behavior or fine-tuning algorithms. However, in order to experiment with systems withh human subjects through mock systems, I believe it is essential to also have experience in UX/UI design and implementation. That is why I undertook this project.
+<h3>Use of Artificial Intelligence</h3>
+The goal of this course was to successfully complete a project by appropriately utilizing AI. For this project, I used GPT Pro, Figma Pro, and Whyser (an interview research tool). In chronological order, I began by conducting interviews with four individuals to explore the potential significance and necessity of the project. During this process, I used Whyser and ChatGPT to generate appropriate interview questions and summarize the interview content. Next, I collaborated with ChatGPT for brainstorming to sketch out the initial design structure. Based on this, I created wireframes using Figma. While doing so, I also used ChatGPT to develop concrete user scenarios to include in the wireframes.
+Finally, I used Figma AI—one of the main tools in this project—to implement dynamic interactions. Since the goal of my project was to simulate a generative AI system, I aimed to produce higher-fidelity, dynamic wireframes using Figma’s built-in AI capabilities.
+
+
+<h3>Challenges</h3>
+Since it was my first time actually designing a UI, the process felt unfamiliar, and I was not confident using Figma. As a result, I relied heavily on the support of various AI models throughout the project. Although Figma AI is very useful, when designing multi-layered pages, the request can sometimes be applied to the wrong page if the specific page is not clearly mentioned. This can happen even when the request is made within a certain screen (e.g., screen A), but the changes are reflected in a different one.
+
 
 <h3>Future Work</h3>
-In the future, I will focus on improving algorithms and enhancing the quality of information. Once the design goals can be implemented algorithmically, I plan to use the experience gained from this project to guide the development of more effective system designs.
+My personal research goal is to design and develop human-centered systems. In most research, this mostly involves analyzing user behavior or fine-tuning algorithms. However, in order to experiment with systems withh human subjects through mock systems, I believe it is essential to also have experience in UX/UI design and implementation. That is why I undertook this project. In the future, I will focus on improving algorithms and enhancing the quality of information. Once the design goals can be implemented algorithmically, I plan to use the experience gained from this project to guide the development of more effective system designs.
 
 
 <br><br><br>
