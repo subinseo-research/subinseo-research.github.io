@@ -48,11 +48,11 @@ This project was proposed in the course INST728F in 2025 Fall semester, led by P
             : preferred sources, citation style, level of alerts 
 <br>
 
-![Mainpage1GIF](/images/Post_11/Mainstream2gif)
+![Mainstream2](/images/Post_11/Mainstream2.gif)
 Users can choose the best-fit mode through conversation
 <br>
 
-![Mainpage1GIF](/images/Post_11/Mainstream2gif)
+![Mainstream3](/images/Post_11/Mainstream3.gif)
 If a user accidentally uses the wrong mode during a conversation, the system detects it and suggests switching to the appropriate mode.
 
 <br>
@@ -107,18 +107,20 @@ Who are we designing for?
 
 <h3>Low-fidelity Design Sketch</h3>
 I created the initial design by drawing it by hand.
+
 ![Low-fidelity_wireframe](/images/Post_11/Low-fidelity_wireframe.png)
 
 
 <br>
 <h3>Wireframe</h3>
 Based on the sketch, we created wireframes, which helped ensure the designs aligned with the intended design goals.
+
 ![Highfidelity_wireframe](/images/Post_11/High-fidelity_wireframe.png)
 
 <br>
 <h3>Design Indentity</h3>
 <div align="center">
-  <img src="/images/Post_11/UI_Color.png" alt="UI_Color" width="70%">
+  <img src="/images/Post_11/UI_Color.png" alt="UI_Color" width="80%">
 </div>
 Through aesthetic design, I also wanted to highlight the system’s core identity—offering a variety of selectable modes. To achieve this, the overall system design was kept simple, using gray tones, black text, and a white background. However, I used distinct and vibrant colors for each mode to visually differentiate them. Each color was carefully chosen to match the concept of its corresponding mode:
 1. Research — Soft Study Blue (#DCEBFF)🔵
