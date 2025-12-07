@@ -149,14 +149,42 @@ Lastly, the logo combines these five colors into a single wave, forming the shap
 ---
 <h1>✨Reflection</h1>
 <br>
-<h3>Use of Artificial Intelligence</h3>
-The goal of this course was to successfully complete a project by appropriately utilizing AI. For this project, I used GPT Pro, Figma Pro, and Whyser (an interview research tool). In chronological order, I began by conducting interviews with four individuals to explore the potential significance and necessity of the project. During this process, I used Whyser and ChatGPT to generate appropriate interview questions and summarize the interview content. Next, I collaborated with ChatGPT for brainstorming to sketch out the initial design structure. Based on this, I created wireframes using Figma. While doing so, I also used ChatGPT to develop concrete user scenarios to include in the wireframes.
-Finally, I used Figma AI—one of the main tools in this project—to implement dynamic interactions. Since the goal of my project was to simulate a generative AI system, I aimed to produce higher-fidelity, dynamic wireframes using Figma’s built-in AI capabilities.
+<div style="display: flex; gap: 20px; align-items: flex-start;">
 
 
-<h3>Challenges</h3>
-Since it was my first time actually designing a UI, the process felt unfamiliar, and I was not confident using Figma. As a result, I relied heavily on the support of various AI models throughout the project. Although Figma AI is very useful, when designing multi-layered pages, the request can sometimes be applied to the wrong page if the specific page is not clearly mentioned. This can happen even when the request is made within a certain screen (e.g., screen A), but the changes are reflected in a different one.
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/Post_11/AI_use.gif" 
+         alt="Project Image" 
+         style="width: 100%; max-width: 450px; border-radius: 8px;">
+  </div>
 
+  <div style="flex: 2; text-align: justify;">
+    <h3>Use of Artificial Intelligence</h3>
+    <p>
+      The goal of this course was to successfully complete a project by appropriately utilizing AI. 
+      For this project, I used GPT Pro, Figma Pro, and Whyser (an interview research tool). 
+      In chronological order, I began by conducting interviews with four individuals to explore the potential significance 
+      and necessity of the project. During this process, I used Whyser and ChatGPT to generate appropriate interview 
+      questions and summarize the interview content.
+      Next, I collaborated with ChatGPT for brainstorming to sketch out the initial design structure. 
+      Based on this, I created wireframes using Figma. 
+      While doing so, I also used ChatGPT to develop concrete user scenarios to include in the wireframes.
+      <br><br>
+      Finally, I used Figma AI—one of the main tools in this project—to implement dynamic interactions. 
+      Since the goal of my project was to simulate a generative AI system, I aimed to produce higher-fidelity, dynamic 
+      wireframes using Figma’s built-in AI capabilities.
+    </p>
+
+    <h3>Challenges</h3>
+    <p>
+      Since it was my first time actually designing a UI, the process felt unfamiliar, and I was not confident using Figma. 
+      As a result, I relied heavily on the support of various AI models throughout the project. 
+      Although Figma AI is very useful, when designing multi-layered pages, the request can sometimes be applied to the 
+      wrong page if the specific page is not clearly mentioned. 
+      (This can happen even when the request is made within a certain screen, but the changes are reflected in a different one.)
+    </p>
+  </div>
+</div>
 
 <h3>Future Work</h3>
 My personal research goal is to design and develop human-centered systems. In most research, this mostly involves analyzing user behavior or fine-tuning algorithms. However, in order to experiment with systems withh human subjects through mock systems, I believe it is essential to also have experience in UX/UI design and implementation. That is why I undertook this project. In the future, I will focus on improving algorithms and enhancing the quality of information. Once the design goals can be implemented algorithmically, I plan to use the experience gained from this project to guide the development of more effective system designs.
