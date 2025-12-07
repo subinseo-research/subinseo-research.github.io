@@ -23,18 +23,29 @@ This project was proposed in the course INST728F in 2025 Fall semester, led by P
     Most AI systems have been optimized primarily for <u>accurcay-related metrics</u> such as F-meaurse. However, real human information-seeking behavior is far more influenced by the context in which the system is used and by psychological factors such as cognitive load and trust calibration. 
     <br><br>
     <div class="notice--blue">
-    <strong>"How can I reduce users' cognitive, emotional, and informational misuse in general-purpose AI?"</strong>
+    "How can I reduce users' <strong>cognitive, emotional, and informational misuse</strong> in general-purpose AI?"
     </div>
     <br>
 </div>
 
 ---
 <h3>🎯Desogm Goals and Final Solutions</h3>
-<img src="/images/Post_11/MainStream.gif" width="400" alt="MainStream gif">
 
+1️⃣ <strong> Support for various modes tailored to users needs</strong>
 ![Mainstream GIF](/images/Post_11/MainStream.gif)
+* Support for five distinct modes: research, development, creation, business, and counseling
+* Users can determine which of the five modes best suits their purpose through conversation
+* The settings page allows for more specific customization (preferred sources, citation style, level of alerts) and provides options to modify preferences
+
+![Mainpage1GIF](/images/Post_11/Main page1.gif)
 
 
+![Function1 GIF](/images/Post_11/Function1.gif)
+
+
+![Function2 GIF](/images/Post_11/Function2.gif)
+
+![Function3 GIF](/images/Post_11/Function3.gif)
     1) credibity design
     2) Safe (preventing misuse)
     3) High engaging 
