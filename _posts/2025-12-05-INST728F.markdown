@@ -101,13 +101,17 @@ When the system detects that a user overly relies on AI, it intentionally disrup
 * quickly scan source credibility without opening external tools
 
 <h3>Who are we designing for?</h3>
-Following user research, we developed a persona grounded in the collected data and insights. 
+Below is a user persona profile created based on the interviews.
 
-![User1](/images/Post_11/User1.png)
+<div align="center">
+  <img src="/images/Post_11/User1.png" alt="User1" width="90%">
+</div>
 
-Based on this initial concept of the product, I used GPT to generate the table below in order to consider a wider range of personas. Due to limitations in resources and budget, I was only able to interview four people in their 20s from my personal network. However, by tailoring various virtual personas to the product using GPT, I was able to gain additional insights and references.
+Additionally, I used GPT to generate the table below in order to consider a wider range of personas. Due to limitations in resources and budget, I was only able to interview four people from my personal network. However, by tailoring various virtual personas to the product using GPT, I was able to gain additional insights and references.
 
-![user2](/images/Post_11/user2.png)
+<div align="center">
+  <img src="/images/Post_11/user2.png" alt="user2" width="100%">
+</div>
 
 <h3>What are the product goals??</h3>
 ![goal](/images/Post_11/goal.png)
