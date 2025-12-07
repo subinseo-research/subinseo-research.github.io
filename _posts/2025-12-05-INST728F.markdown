@@ -97,16 +97,6 @@ Who are we designing for?
 Users want to...
 "
 
----
- <h1>User Behavior Flow</h1>
- <br><br>
-
-<div align="center">
-  <img src="/images/Post_11/flow.png" alt="flow"> 
-</div>
-
-
-
 
 <br>
 ---
@@ -124,6 +114,12 @@ I created the initial design by drawing it by hand.
 Based on the sketch, we created wireframes, which helped ensure the designs aligned with the intended design goals.
 
 ![Highfidelity_wireframe](/images/Post_11/High-fidelity_wireframe.png)
+
+<br>
+<h3>User Behavior Flow</h3>
+<div align="center">
+  <img src="/images/Post_11/flow.png" alt="flow"> 
+</div>
 
 <br>
 <h3>Design Indentity</h3>
@@ -198,8 +194,8 @@ I primarily used GPT for logo creation, refining design goals, and establishing 
 </div>
 
 ![gpt uses](/images/Post_11/chatgpt.gif) 
-* Figma AI: Automatically generated designs for aesthetic elements, design finalization, and margins
-* ChatGPT: Helped develop core ideas, design wireframes, generate icons (using image generation tools), and suggest key revisions
+* <strong>Figma AI</strong>: Implemented <u>interactive design< elements</u>, modified aesthetic elements, and automatically designed peripheral elements. 
+* <strong>ChatGPT</storng>: Helped develop core ideas, design wireframes, generate icons (using image generation tools), and suggest key revisions. 
 
 
 
