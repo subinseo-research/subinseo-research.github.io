@@ -81,8 +81,8 @@ When the system detects that a user overly relies on AI, it intentionally disrup
 
 
 ---
- <h1>Discovery</h1>
- <br><br>
+<h1>Discovery</h1>
+<br><br>
 
 <div align="center">
   <img src="/images/Post_11/interview.png" alt="interview"> <br>
@@ -90,18 +90,30 @@ When the system detects that a user overly relies on AI, it intentionally disrup
 </div>
 <br>
 
+<h3>Users struggle with…</h3>
+* difficulty determining the credibility of AI-generated information
+* inconsistent information quality depending on the mode or topic
+* fear of over-relying on AI for decisions without understanding how answers are generated
 
-<h3>💁🏻‍♀️User study</h3>
+<h3>Users want to…</h3>
+* receive clear, transparent, and context-appropriate validation for each response
+* get citations in their preferred format (APA, MLA, Chicago, etc.)
+* quickly scan source credibility without opening external tools
 
-Who are we designing for?
-Users want to...
-"
+<h3>Who are we designing for?</h3>
+Following user research, we developed a persona grounded in the collected data and insights. 
+
+![User1](/images/Post_11/User1.png)
+
+![User2](/images/Post_11/User2.png)
+
+After iterative user research and scenario analysis, we derived four major user groups.
+Each group has distinct information-seeking goals, literacy skills, and validation needs.
 
 
-<br>
 ---
- <h1>💡Ideation</h1>
- <br><br>
+<h1>💡Ideation</h1>
+<br><br>
 
 <h3>Low-fidelity Design Sketch</h3>
 I created the initial design by drawing it by hand.
@@ -136,7 +148,7 @@ Through aesthetic design, I also wanted to highlight the system’s core identit
 
 Lastly, the logo combines these five colors into a single wave, forming the shape of a brain to symbolize the mind.
 
-<br>
+
 ---
 <h1>🔁Iteration</h1>
 <br>
@@ -162,7 +174,7 @@ I primarily used GPT for logo creation, refining design goals, and establishing 
 
 ![Iteration4](/images/Post_11/Iteration4.png) 
 
-<br>
+
 ---
 <h1>✨Reflection</h1>
 <br>
@@ -194,8 +206,8 @@ I primarily used GPT for logo creation, refining design goals, and establishing 
 </div>
 
 ![gpt uses](/images/Post_11/chatgpt.gif) 
-* <strong>Figma AI</strong>: Implemented <u>interactive design< elements</u>, modified aesthetic elements, and automatically designed peripheral elements. 
-* <strong>ChatGPT</storng>: Helped develop core ideas, design wireframes, generate icons (using image generation tools), and suggest key revisions. 
+* <strong>Figma AI</strong>: Implemented <u>interactive design elements</u>, modified aesthetic elements, and automatically designed peripheral elements. 
+* <strong>ChatGPT</strong>: Helped develop core ideas, design wireframes, generate icons (using image generation tools), and suggest key revisions. 
 
 
 
