@@ -121,11 +121,11 @@ Based on the sketch, we created wireframes, which helped ensure the designs alig
   <img src="/images/Post_11/UI_Color.png" alt="UI_Color" width="70%">
 </div>
 Through aesthetic design, I also wanted to highlight the system’s core identity—offering a variety of selectable modes. To achieve this, the overall system design was kept simple, using gray tones, black text, and a white background. However, I used distinct and vibrant colors for each mode to visually differentiate them. Each color was carefully chosen to match the concept of its corresponding mode:
-    * Research — Soft Study Blue (#DCEBFF)🔵
-    * Tech — Mint Logic Green (#E3FCEF)🟢
-    * Creative — Pastel Neon Purple (#F4E8FF)🟣
-    * Business — Warm Office Orange (#FFE9CC)🟠
-    * Counselor — Soft Emotional Pink (#FFE5F0)💗
+1. Research — Soft Study Blue (#DCEBFF)🔵
+* Tech — Mint Logic Green (#E3FCEF)🟢
+* Creative — Pastel Neon Purple (#F4E8FF)🟣
+* Business — Warm Office Orange (#FFE9CC)🟠
+* Counselor — Soft Emotional Pink (#FFE5F0)💗
 Lastly, the logo combines these five colors into a single wave, forming the shape of a brain to symbolize the mind.
 
 <br>
