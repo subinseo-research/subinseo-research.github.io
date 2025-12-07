@@ -47,11 +47,13 @@ This project was proposed in the course INST728F in 2025 Fall semester, led by P
 * The settings page allows for more specific customization 
             : preferred sources, citation style, level of alerts 
 <br>
+
 ![Mainpage1GIF](/images/Post_11/Mainstream2gif)
 Users can choose the best-fit mode through conversation
 <br>
-![Mainpage1GIF](/images/Post_11/Mainstream2gif)
 
+![Mainpage1GIF](/images/Post_11/Mainstream2gif)
+If a user accidentally uses the wrong mode during a conversation, the system detects it and suggests switching to the appropriate mode.
 
 <br>
 <strong>Design Goal 2️⃣: Guide users to identify their specific information needs</strong>
