@@ -22,6 +22,10 @@ This project was proposed in the course INST728F in 2025 Fall semester, led by P
     <h3>❓Problem</h3>
     Most AI systems have been optimized primarily for <u>accurcay-related metrics</u> such as F-meaurse. However, real human information-seeking behavior is far more influenced by the context in which the system is used and by psychological factors such as cognitive load and trust calibration. 
     <br><br>
+    Misuse of general-purpose AI can lead to truly dangerous consequences. <a href="https://www.instagram.com/reel/DR4QwDcDIVd/" target="_blank"> In August 2025, there was a case in which a student died by suicide after interacting with ChatGPT </a>. This incident occurred, in part, because generative AIs like ChatGPT are generally designed to respond supportively to users regardless of the purpose of use. However, this issue cannot simply be dismissed as an individual's poor judgment. To design safer and more equitable information systems, we must confront and address these challenges directly.
+    <br><br>
+    Therefore, this project explores what kinds of design are needed to prevent misuse and build a safer information system.
+    <br><br>
     <div class="notice--blue">
     "How can I reduce users' <strong>cognitive, emotional, and informational misuse</strong> in general-purpose AI?"
     </div>
@@ -31,39 +35,67 @@ This project was proposed in the course INST728F in 2025 Fall semester, led by P
 ---
 <h3>🎯Desogm Goals and Final Solutions</h3>
 
-1️⃣ <strong> Support for various modes tailored to users needs</strong>
+<br>
+<br>
+<strong>Design Goal 1️⃣: Support for various modes tailored to users needs</strong>
 ![Mainstream GIF](/images/Post_11/MainStream.gif)
-* Support for five distinct modes: research, development, creation, business, and counseling
-* Users can determine which of the five modes best suits their purpose through conversation
-* The settings page allows for more specific customization (preferred sources, citation style, level of alerts) and provides options to modify preferences
+* Support for five distinct modes:<br> 
+            research, development, creation, business, and counseling
+* The settings page allows for more specific customization 
+            : preferred sources, citation style, level of alerts 
+<br>
+![Mainpage1GIF](/images/Post_11/Mainstream2gif)
+Users can choose the best-fit mode through conversation
+<br>
+![Mainpage1GIF](/images/Post_11/Mainstream2gif)
 
-![Mainpage1GIF](/images/Post_11/Main page1.gif)
 
-
+<br>
+<strong>Design Goal 2️⃣: Guide users to identify their specific information needs</strong>
 ![Function1 GIF](/images/Post_11/Function1.gif)
+If a user submits an overly broad prompt, the system asks follow-up questions to better serve the user's ultimate needs. However, <u>to prevent users from feeling burdened by answering these questions, the design allows for quick and easy responses through clickable options.</u>
 
-
+<br>
+<strong>Design Goal 3️⃣: Build user trust in sources</strong>
 ![Function2 GIF](/images/Post_11/Function2.gif)
+Many recent generative AI services already provide source citations. However, I added a citation type selection button so that users can easily copy and view citations at once, while also presenting an overall credibility message to encourage users' metacognitive judgment.
+<br>
+For credibility message, 
+* If the number of sources in a generated response is between 0 and 2, the system issues a warning that the content may be dangerous 🔴
+* If the number of sources is between 3 and 5, the system issues a warning that the information may be insufficient 🟡
+* If the number of sources is 6 or more, the system indicates that the information is safe 🟢
 
+
+<br>
+<strong>Design Goal 4️⃣: Detect Overtrust</strong>
 ![Function3 GIF](/images/Post_11/Function3.gif)
-    1) credibity design
-    2) Safe (preventing misuse)
-    3) High engaging 
 
-    <h3>💁🏻‍♀️User study</h3>
 
+
+---
+ <h1>Discovery</h1>
+ <br><br>
+
+<div align="center">
+  <img src="/images/Post_11/interview.png" alt="Mainstream GIF">
+  4 Interviews 
+</div>
+
+
+ <h3>💁🏻‍♀️User study</h3>
+
+---
+ <h1>Discovery</h1>
+ <br><br>
+
+
+
+ ---
+ <h1>💡Reflection</h1>
+ <br><br>
 
 
 Who are we designing for?
-<h3>💡Reflection</h3>
 
 
 
-
-
-
-
-
-
-
- </justify>
