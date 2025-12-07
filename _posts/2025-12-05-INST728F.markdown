@@ -3,7 +3,7 @@ layout: post
 title:  "MindFlex AI"
 date:   2025-12-5 18:05:55 +0300
 image:  post_11_0.png
-tags:   Human-Centered System    
+tags:   Human-Centered System_Design    
 ---
 
  <h1>Overview</h1>
@@ -29,7 +29,7 @@ This project was proposed in the course INST728F in 2025 Fall semester, led by P
     <br><br>
     Therefore, this project explores what kinds of design are needed to prevent misuse and build a safer information system.
     <br><br>
-    <div class="notice--blue">
+    <div class="notice--yellow">
     "How can I reduce users' <strong>cognitive, emotional, and informational misuse</strong> in general-purpose AI?"
     </div>
     <br>
@@ -44,8 +44,8 @@ This project was proposed in the course INST728F in 2025 Fall semester, led by P
 ![Mainstream GIF](/images/Post_11/MainStream.gif)
 * Support for five distinct modes:<br> 
             research, development, creation, business, and counseling
-* The settings page allows for more specific customization 
-            : preferred sources, citation style, level of alerts 
+* The settings page allows for more specific customization: <br>
+            preferred sources, citation style, level of alerts 
 <br>
 
 ![Mainstream2](/images/Post_11/Mainstream2.gif)
@@ -145,19 +145,28 @@ Lastly, the logo combines these five colors into a single wave, forming the shap
 <h1>🔁Iteration</h1>
 <br>
 
-![Iteration1](/images/Post_11/Iteration1.png) 
+<h3>Feedback from users</h3>
+Based on feedback that it should be easier to modify default settings, I added a “...” button that allows users to easily navigate to the settings page.
 
 ![Iteration1](/images/Post_11/Iteration1.png) 
 
-![Iteration1](/images/Post_11/Iteration1.png) 
+<h3>Feedback from GPT</h3>
+While trying to achieve the design goal of clearly identifying user needs without overwhelming them, GPT suggested a method: providing clickable choice examples to allow users to respond easily and effortlessly.
+
+![Iteration2](/images/Post_11/Iteration2.png) 
+
+<h3>Feedback from Figma AI</h3>
+One convenient aspect of Figma AI is that, for non-core design elements—such as a general settings page—it can automatically generate layouts based on common design conventions.
+
+![Iteration3](/images/Post_11/Iteration3.png) 
 
 
 <h3>Before-and-after comparison</h3>
 I primarily used GPT for logo creation, refining design goals, and establishing the overall structure, while Figma AI was used for adjusting smaller aesthetic elements.
 
-![Iteration1](/images/Post_11/Iteration4.png) 
+![Iteration4](/images/Post_11/Iteration4.png) 
 
-
+<br>
 ---
 <h1>✨Reflection</h1>
 <br>
@@ -171,7 +180,7 @@ I primarily used GPT for logo creation, refining design goals, and establishing 
     <h3>Use of Artificial Intelligence</h3>
     <p>
       The goal of this course was to successfully complete a project by appropriately utilizing AI. 
-      For this project, I used GPT Pro, Figma Pro, and Whyser (an interview research tool). 
+      For this project, I used <strong>GPT-5, Figma Pro, and Whyser</strong> (an interview research tool). 
       In chronological order, I began by conducting interviews with four individuals to explore the potential significance 
       and necessity of the project. During this process, I used Whyser and ChatGPT to generate appropriate interview 
       questions and summarize the interview content.
@@ -183,14 +192,19 @@ I primarily used GPT for logo creation, refining design goals, and establishing 
       Since the goal of my project was to simulate a generative AI system, I aimed to produce higher-fidelity, dynamic 
       wireframes using Figma’s built-in AI capabilities.
       <br><br>
-      The left screen shows the use of Figma AI, where I interacted using Korean, my first language.
+      <u>The left screen shows the use of Figma AI, where I interacted using Korean, my first language.</u>
     </p>
   </div>
 </div>
 
+![gpt uses](/images/Post_11/chatgpt.gif) 
+* Figma AI: Automatically generated designs for aesthetic elements, design finalization, and margins
+* ChatGPT: Helped develop core ideas, design wireframes, generate icons (using image generation tools), and suggest key revisions
+
+
 
 <h3>Challenges</h3>
-Since it was my first time actually designing a UI, the process felt unfamiliar, and I was not confident using Figma.  As a result, I relied heavily on the support of various AI models throughout the project. Although Figma AI is very useful, when designing multi-layered pages, the request can sometimes be applied to the wrong page if the specific page is not clearly mentioned by me. (This can happen even when the request is made within a certain screen, but the changes are reflected in a different one.)
+Since it was my first time actually designing a UI, the process felt unfamiliar, and I was not confident using Figma.  As a result, I treid to use varioius types of AI models throughout the project. In particular, although Figma AI is very useful, when designing multi-layered pages, the request can sometimes be applied to the wrong page if the specific page is not clearly mentioned by me. (This can happen even when the request is made within a certain screen, but the changes are reflected in a different one.)
 
 <h3>Future Work</h3>
 My personal research goal is to design and develop human-centered systems. In most research, this mostly involves analyzing user behavior or fine-tuning algorithms. However, in order to experiment with systems withh human subjects through mock systems, I believe it is essential to also have experience in UX/UI design and implementation. That is why I undertook this project. In the future, I will focus on improving algorithms and enhancing the quality of information. Once the design goals can be implemented algorithmically, I plan to use the experience gained from this project to guide the development of more effective system designs.
