@@ -100,17 +100,17 @@ When the system detects that a user overly relies on AI, it intentionally disrup
 * get citations in their preferred format (APA, MLA, Chicago, etc.)
 * quickly scan source credibility without opening external tools
 
-<h3>Who are we designing for?</h3>
+<h3>What are the product goals?</h3>
 Following user research, we developed a persona grounded in the collected data and insights. 
 
 ![User1](/images/Post_11/User1.png)
 
-![User2](/images/Post_11/User2.png)
+Based on this initial concept of the product, I used GPT to generate the table below in order to consider a wider range of personas. Due to limitations in resources and budget, I was only able to interview four people in their 20s from my personal network. However, by tailoring various virtual personas to the product using GPT, I was able to gain additional insights and references.
 
-After iterative user research and scenario analysis, we derived four major user groups.
-Each group has distinct information-seeking goals, literacy skills, and validation needs.
+![User2](/images/Post_11/user2.png)
 
-
+<h3>Who are we designing for?</h3>
+![goal](/images/Post_11/goal.png)
 ---
 <h1>💡Ideation</h1>
 <br><br>
@@ -138,7 +138,7 @@ Based on the sketch, we created wireframes, which helped ensure the designs alig
 <div align="center">
   <img src="/images/Post_11/UI_Color.png" alt="UI_Color" width="80%">
 </div>
-Through aesthetic design, I also wanted to highlight the system’s core identity—offering a variety of selectable modes. To achieve this, the overall system design was kept simple, using gray tones, black text, and a white background. However, I used distinct and vibrant colors for each mode to visually differentiate them. Each color was carefully chosen to match the concept of its corresponding mode:
+ I  wanted to highlight the system’s core identity—offering <u>a variety of selectable modes.</u> To achieve this, the overall system design was kept simple, using gray tones, black text, and a white background. However, I used distinct and vibrant colors for each mode to visually differentiate them. Each color was carefully chosen to match the concept of its corresponding mode:
 * Research — Soft Study Blue (#DCEBFF)🔵
 * Tech — Mint Logic Green (#E3FCEF)🟢
 * Creative — Pastel Neon Purple (#F4E8FF)🟣
